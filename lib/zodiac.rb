@@ -11,4 +11,3 @@ module Zodiac
 end
 
 require 'zodiac/date'
-require 'zodiac/activerecord'
